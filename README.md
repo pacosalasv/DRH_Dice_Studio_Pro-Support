@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="680" alt="Dice Forge banner" src="REPLACE_WITH_BANNER_URL" />
+  <img width="680" alt="DRH - Dice Forge banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
 </div>
 
 <div align="center">
 
-# Dice Forge | Support Hub
+# DRH - Dice Forge | Support Hub
 
-Public technical support for **Dice Forge**.
+Public technical support for **DRH - Dice Forge**.
 
 <table>
   <tr>
@@ -23,7 +23,7 @@ Public technical support for **Dice Forge**.
 
 <div align="center">
 
-This repository is the central public support hub for **Dice Forge** while development continues.
+This repository is the central public support hub for **DRH - Dice Forge** while development continues.
 
 </div>
 
@@ -56,7 +56,7 @@ This repository is the central public support hub for **Dice Forge** while devel
 
 ## Supported scope
 
-- **Add-on:** Dice Forge
+- **Add-on:** DRH - Dice Forge
 - **Minimum Blender version:** 4.2.0
 
 ## Before you post
